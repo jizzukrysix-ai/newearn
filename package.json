@@ -1,1 +1,19 @@
-
+{
+  "name": "teleshort-mini-app",
+  "version": "1.0.0",
+  "description": "TeleShort - Telegram Mini App Earning System",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required for static HTML'",
+    "start": "echo 'App is designed to be hosted via Vercel Serverless'"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "WebApp Sikho",
+  "license": "MIT",
+  "private": true
+}
